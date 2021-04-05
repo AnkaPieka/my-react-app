@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+/*my css*/
+
+.cold-phrase {
+  color: blue;
+}
+
+.nice-phrase {
+  color: black;
+}
+
+.warm-phrase {
+  color: red;
+}
+

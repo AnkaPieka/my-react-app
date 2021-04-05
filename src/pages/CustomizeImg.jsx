@@ -9,3 +9,4 @@ function CustomizeImg() {
 }
 
 export default CustomizeImg
+
